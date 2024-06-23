@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { Tooltip } from "./src";
 
 export default function Home() {
   return (
@@ -108,7 +109,7 @@ export default function Home() {
           </p>
         </a>
       </div>
-      <span><div>ggg</div></span>
+      <span><Tooltip>ggg</Tooltip></span>
     </main>
   );
 }

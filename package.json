@@ -1,6 +1,6 @@
 {
   "name": "advanced-tooltip",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React Advanced Tooltip Components",
   "files": [
     "./lib/"

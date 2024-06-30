@@ -60,7 +60,7 @@ const TooltipContainer = styled.span`
     transform-origin: top;
     transform: translateX(-50%) scaleY(0);
     transition: 0.2s;
-    transition-duration: 0s; /* If the mouse leaves the element, the transition effects for the tooltip arrow are "turned off" */
+    transition-duration: 0s;
   }
   
   &:hover .tooltip-content {
